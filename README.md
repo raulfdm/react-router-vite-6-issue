@@ -28,7 +28,7 @@ At [http://localhost:5173/](http://localhost:5173/), you'll find the app working
 From root:
 
 ```
-cd vite5-react-router712 && pnpm i && pnpm run dev
+cd vite6-react-router712 && pnpm i && pnpm run dev
 ```
 
 At [http://localhost:5173/](http://localhost:5173/), you'll find the issue:
